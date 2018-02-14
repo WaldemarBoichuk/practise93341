@@ -1,1 +1,2 @@
-# Simple.
+# Practice for TDD/BDD.
+Just dirty old practise nothing else...
